@@ -1,4 +1,4 @@
-# 2d-Beat-emUp-Project
+# 2d Beat emUp Project
 
 ![IMG_20170720_144128_466](https://i.postimg.cc/j5R0CTjj/unity-2d-beat-em-Up.png)
 > [!NOTE]
