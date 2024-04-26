@@ -1,6 +1,6 @@
 # 2d Beat emUp Project
 
-![IMG_20170720_144128_466](https://i.postimg.cc/j5R0CTjj/unity-2d-beat-em-Up.png)
+![IMG_20170720_144128_466](https://i.postimg.cc/tJQ1sDck/unity-2d-beat-em-Up.jpg)
 > [!NOTE]
 > This repository serves as a personal educational project and is not intended for commercial or economic purposes. All content within this repository is solely for educational use and does not represent financial advice or strategies.
 
